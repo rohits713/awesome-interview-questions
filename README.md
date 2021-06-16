@@ -523,6 +523,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 
 ### SQL
 
+* [40 Frequently asked SQL Queries for Interview preparation](https://artoftesting.com/sql-queries-for-interview)
 * [10 Frequently asked SQL Query Interview Questions](http://java67.blogspot.com.by/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html)
 * [45 Essential SQL Interview Questions from Toptal](http://www.toptal.com/sql/interview-questions)
 * [Common Interview Questions and Answers](http://www.indiabix.com/technical/sql-server-common-questions/)
